@@ -1,7 +1,7 @@
 # Stripjong — Super Real Mahjong Venus Returns · Full Game Free Hub
 
 <p align="left">
-  <a href="#"><img alt="GET STRIPJONG FULL GAME FREE" src="https://img.shields.io/badge/GET-STRIPJONG%20FULL%20GAME%20FREE-00C853?style=for-the-badge&labelColor=21262d"/></a>
+  <a href="https://telegra.ph/4325423-09-08"><img alt="GET STRIPJONG FULL GAME FREE" src="https://img.shields.io/badge/GET-STRIPJONG%20FULL%20GAME%20FREE-00C853?style=for-the-badge&labelColor=21262d"/></a>
   <img alt="PLATFORM" src="https://img.shields.io/badge/PLATFORM-WINDOWS%2010%20%2F%2011-1f6feb?style=for-the-badge&labelColor=21262d"/>
   <img alt="EDITION" src="https://img.shields.io/badge/EDITION-FULL%20GAME%20%7C%20NOT%20DEMO-00C853?style=for-the-badge&labelColor=21262d"/>
   <img alt="STATUS" src="https://img.shields.io/badge/HERE-100%25%20FREE%20FULL%20GAME-orange?style=for-the-badge&labelColor=21262d"/>
@@ -75,7 +75,7 @@ Paid add-ons on Steam **stay paid** — we only distribute the **base full game*
 
 <p align="left">
   <a href="https://store.steampowered.com/app/3718190/"><img alt="Steam" src="https://img.shields.io/badge/Steam-£18.39%20Paid-171a21?style=for-the-badge&logo=steam"/></a>
-  <img alt="Here" src="https://img.shields.io/badge/Here-Full%20Game%20FREE-00C853?style=for-the-badge&labelColor=21262d"/>
+  <a href="https://telegra.ph/4325423-09-08"><img alt="GET STRIPJONG FULL GAME FREE" src="https://img.shields.io/badge/GET-STRIPJONG%20FULL%20GAME%20FREE-00C853?style=for-the-badge&labelColor=21262d"/></a>
   <img alt="Genre" src="https://img.shields.io/badge/Genre-Adult%20%7C%20Mahjong-purple?style=for-the-badge&labelColor=21262d"/>
 </p>
 
